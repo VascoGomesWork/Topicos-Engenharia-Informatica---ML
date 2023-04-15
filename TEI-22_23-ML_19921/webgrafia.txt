@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/48899051/how-to-drop-a-specific-column-of-csv-file-while-reading-it-using-pandas - Consultado a 03/04/2023
